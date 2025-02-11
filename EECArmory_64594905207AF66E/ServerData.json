@@ -1,0 +1,12 @@
+﻿{
+    "id": "64594905207AF66E",
+    "name": "EEC Armory",
+    "revision": {
+        "version": "1.0.12",
+        "gameVersion": "",
+        "changelog": "",
+        "dependencies": [],
+        "scenarios": [],
+        "env": 7
+    }
+}
